@@ -1,4 +1,4 @@
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Welcome to the Underwater Acoustic Channel Library! </h2>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Welcome to the Underwater Acoustic Channel Library. </h2>
 
 Our documentation is hosted [here](https://uwa-channels.github.io). We provide several toolboxes, including unpacking the compressed channel matrices, and applying the channels to a signal of your choice. Click on the entries below to find out more.
 
