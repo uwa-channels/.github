@@ -2,12 +2,8 @@
 
 Our documentation is hosted [here](https://uwa-channels.github.io). We provide several toolboxes, including unpacking the compressed channel matrices, and applying the channels to a signal of your choice. Click on the entries below to find out more.
 
-* Replay a signal through an underwater channel
-  * [MATLAB/Octave version](https://github.com/uwa-channels/replay_matlab)
-  * [Python version](https://github.com/uwa-channels/replay_python)
-* Unpack and visualize an underwater acoustic channel
-  * [MATLAB/Octave version](https://github.com/uwa-channels/unpack_matlab)
-  * [Python version](https://github.com/uwa-channels/unpack_python)
+  * [MATLAB/Octave version](https://github.com/uwa-channels/matlab)
+  * [Python version](https://github.com/uwa-channels/python)
 
 Your feedback is always appreciated. If you encounter any problems, please create an issue in the corresponding repository. If you would like to contribute to this library, in one way or another, let us [discuss](https://github.com/orgs/uwa-channels/discussions).
 
