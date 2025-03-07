@@ -5,7 +5,6 @@ Our documentation is hosted [here](https://uwa-channels.github.io). We provide s
 * Replay a signal through an underwater channel
   * [MATLAB/Octave version](https://github.com/uwa-channels/replay_matlab)
   * [Python version](https://github.com/uwa-channels/replay_python)
-  * [Julia version](https://github.com/org-arl/UnderwaterAcoustics.jl)
 * Unpack and visualize an underwater acoustic channel
   * [MATLAB/Octave version](https://github.com/uwa-channels/unpack_matlab)
   * [Python version](https://github.com/uwa-channels/unpack_python)
